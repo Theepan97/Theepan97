@@ -14,8 +14,8 @@ jobs:
       - uses: khaosdoctor/blog-post-workflow@master
         with:
           comment_tag_name: DEVTO
-          feed_list: "https://dev.to/feed/username"
+          feed_list: "https://dev.to/feed/thesabesan"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@username"
+          feed_list: "https://medium.com/feed/@sabesan96"
